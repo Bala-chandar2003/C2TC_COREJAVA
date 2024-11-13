@@ -1,4 +1,4 @@
-package com.tns.ifetdayeleven;
+package com.tns.ifet.dayeleven;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 

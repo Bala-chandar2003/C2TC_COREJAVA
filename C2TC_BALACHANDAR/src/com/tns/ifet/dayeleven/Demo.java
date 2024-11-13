@@ -1,4 +1,4 @@
-package com.tns.ifetdayeleven;
+package com.tns.ifet.dayeleven;
 
 public class Demo {
 	public static void main(String[] args) {

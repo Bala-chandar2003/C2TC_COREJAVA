@@ -1,4 +1,4 @@
-package com.tns.ifetdayeleven;
+package com.tns.ifet.dayeleven;
 
 public class TryCatchExample {
 	static int performDivision(int x, int y) {
